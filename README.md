@@ -1,5 +1,9 @@
 # Mugraph Improvement Proposals
 
+> [!WARNING]
+> Please keep in mind that Mugraph is pre-alpha software, and has not been either audited nor it is feature-complete currently even for early adopters.
+> Even if you for some reason decide to use it, do at your own risk.
+
 This project tracks the specification for the Mugraph protocol through **Mugraph Improvement Proposals (MUIPs)**. Specifications present on this folder should guide the implementation itself.
 
 ## Implementations
