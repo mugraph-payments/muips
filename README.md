@@ -18,8 +18,6 @@ If you are implementing your own, be free to add and update with details from yo
 
 | ID | Name | Description |
 |-|-|-|
-| [0001](./muips/0001-append.md) | Append | Sends a transaction, consuming a list of e-cashes and creating new ones in the process. |
-| [0002](./muips/0002-invoices.md) | Invoices | Creates a payment request to be fulfilled by an user. |
 
 Status:
 
@@ -31,5 +29,3 @@ Status:
 
 | ID | Name | [Mugraph](https://mugraph.dev) |
 |-|-|-|
-| 0001 | Append | ❌ |
-| 0002 | Invoices | ❌ |
