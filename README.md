@@ -12,12 +12,13 @@ Those are the projects that currently implement either part or the full specific
 
 - [🦀 Mugraph](https://mugraph.dev): The reference implementation of the protocol.
 
-If you are implementing your own, be free to add and update with details from your own implementation.
+If you are doing your own implementation, be free to add and update with details from your own implementation.
 
 ## Current Proposals
 
 | ID | Name | Description |
 |-|-|-|
+| [0001](./muips/0001.md) | Basic Protocol Flow Definition | Define all the basic rules all participants in the network should follow, like transport and serialization. |
 
 Status:
 
@@ -29,3 +30,4 @@ Status:
 
 | ID | Name | [Mugraph](https://mugraph.dev) |
 |-|-|-|
+| 0001 | Basic Protocol Flow Definition | ❌ |
